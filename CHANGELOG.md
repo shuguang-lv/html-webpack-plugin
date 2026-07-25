@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.6.8](https://github.com/jantimon/html-webpack-plugin/compare/v5.6.7...v5.6.8) (2026-07-25)
+
+
+### Bug Fixes
+
+* extend @rspack/core peer dependency range ([#1893](https://github.com/jantimon/html-webpack-plugin/issues/1893)) ([8057b14](https://github.com/jantimon/html-webpack-plugin/commit/8057b145ac55d511ddd1cb4853c40706fdf3f087))
+
 ### [5.6.7](https://github.com/jantimon/html-webpack-plugin/compare/v5.6.6...v5.6.7) (2026-04-17)
 
 
